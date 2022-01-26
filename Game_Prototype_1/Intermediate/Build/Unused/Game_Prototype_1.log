@@ -1,0 +1,9 @@
+﻿  Creating makefile for Game_Prototype_1Editor (no existing makefile)
+  Building Game_Prototype_1Editor...
+  Using Visual Studio 2019 14.29.30136 toolchain (C:\coding\visual studio\other\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 16 processes...
+    [1/4] Spawner.cpp
+C:\unreal\Game\Game_Prototype_1\Source\Game_Prototype_1\Spawner.cpp(40): error C2059: syntax error: ','
+C:\unreal\Game\Game_Prototype_1\Source\Game_Prototype_1\Spawner.cpp(47): error C2065: 'loc': undeclared identifier
+C:\unreal\Game\Game_Prototype_1\Source\Game_Prototype_1\Spawner.cpp(47): error C2065: 'rot': undeclared identifier
+C:\coding\visual studio\other\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(45,5): error MSB3073: The command "C:\unreal\UE_4.27\Engine\Build\BatchFiles\Build.bat Game_Prototype_1Editor Win64 Development -Project="C:\unreal\Game\Game_Prototype_1\Game_Prototype_1.uproject" -WaitMutex -FromMsBuild" exited with code 6.

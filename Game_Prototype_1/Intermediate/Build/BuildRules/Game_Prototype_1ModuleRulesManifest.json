@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\unreal\\Game\\Game_Prototype_1\\Source\\Game_Prototype_1\\Game_Prototype_1.Build.cs",
+		"C:\\unreal\\Game\\Game_Prototype_1\\Source\\Game_Prototype_1.Target.cs",
+		"C:\\unreal\\Game\\Game_Prototype_1\\Source\\Game_Prototype_1Editor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

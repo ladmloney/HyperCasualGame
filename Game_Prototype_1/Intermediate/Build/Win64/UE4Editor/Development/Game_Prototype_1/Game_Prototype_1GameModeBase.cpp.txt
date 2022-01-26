@@ -1,0 +1,7 @@
+C:\unreal\Game\Game_Prototype_1\Intermediate\Build\Win64\UE4Editor\Development\Game_Prototype_1\Definitions.Game_Prototype_1.h
+C:\unreal\Game\Game_Prototype_1\Source\Game_Prototype_1\Game_Prototype_1GameModeBase.h
+C:\unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\unreal\Game\Game_Prototype_1\Intermediate\Build\Win64\UE4Editor\Inc\Game_Prototype_1\Game_Prototype_1GameModeBase.generated.h
